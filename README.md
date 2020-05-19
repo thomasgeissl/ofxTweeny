@@ -1,4 +1,7 @@
-# ofxAsap
+# ofxTweeny
 
 ## Description
-Nothing fancy here. this openFrameworks addon simply includes the [asap](https://github.com/mobius3/asap) date/time library. 
+Nothing fancy here. This openFrameworks addon simply includes the [tweeny](https://github.com/mobius3/tweeny) library. 
+
+## Build status
+[![Build Status](https://travis-ci.com/thomasgeissl/ofxTweeny.svg?branch=master)](https://travis-ci.com/thomasgeissl/ofxTweeny)
